@@ -11,7 +11,7 @@ def load_image(image_path):
         return None
 
 # Ruta a la imagen
-image_path = r"C:\Users\blood\OneDrive\Escritorio\Bloody\Estudio\Python\prueba\i12logo.png"
+image_path = r"C:\Users\blood\OneDrive\Escritorio\Acevedo.Bot\i12logo.png"
 image_base64 = load_image(image_path)
 
 # Verificar si se pudo cargar la imagen
